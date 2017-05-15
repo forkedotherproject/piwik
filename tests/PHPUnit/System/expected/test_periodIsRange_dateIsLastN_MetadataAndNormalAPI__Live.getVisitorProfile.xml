@@ -295,6 +295,15 @@
 			</pluginsIcons>
 		</row>
 	</lastVisits>
+	<devices>
+		<Desktop>
+			<count>2</count>
+			<icon>plugins/Morpheus/icons/dist/devices/desktop.png</icon>
+			<devices>
+				<Unknown>2</Unknown>
+			</devices>
+		</Desktop>
+	</devices>
 	<userId>0</userId>
 	
 	
